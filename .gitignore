@@ -326,3 +326,4 @@ modules.xml
  # Datenbank
  db.sqlite3
 
+/denv/
