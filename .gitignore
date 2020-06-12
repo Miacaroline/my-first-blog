@@ -322,5 +322,6 @@ modules.xml
  #End of https://www.toptal.com/developers/gitignore/api/macos,python,pycharm+all,django
  # virtuelle Umgebung
  denv/
+ denv
  # Datenbank
  db.sqlite3
